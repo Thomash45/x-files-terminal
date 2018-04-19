@@ -7,10 +7,11 @@
     <link rel="stylesheet" href="assets/bootstrap.css"/>
     <link rel="stylesheet" href="assets/custom.css"/>
     <link rel="stylesheet" href="assets/mystyle.css"/>
+    <link rel="stylesheet" href="assets/scanlines.css"/>
 
 
 </head>
-<body>
+<body class="crt">
 <nav class="navbar navbar-default">
     <div class="container">
         <div class="navbar-header">
