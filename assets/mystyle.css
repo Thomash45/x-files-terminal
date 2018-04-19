@@ -1,0 +1,68 @@
+textarea{
+height: 400px;
+    background-color: #000;
+    border: 1px solid #000;
+    color: green;
+    padding: 8px;
+    resize:none;
+
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #000;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: green;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: green;
+}
+.alignbutton {
+
+
+    display: inline;
+}
+.alignform {
+
+
+    display: inline-block;
+}
+
+.separation{
+
+    border-right: 1px solid green;
+
+
+}
+
+.titlefile{
+
+    color:#000;
+    background-color: green;
+}
+
+.modal-content{
+
+    background-: #4e7600;
+    color: #1f79a3;
+
+}
+.modal-dialog{
+
+    background: #4e7600;
+    color: #1f79a3;
+}
+
+.modal-backdrop {
+    background-color: red;
+}
